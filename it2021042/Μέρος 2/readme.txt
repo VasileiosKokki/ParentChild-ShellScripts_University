@@ -1,0 +1,1 @@
+Compile με gcc -pthread it2021042.c και εκτέλεση με ./a.out
